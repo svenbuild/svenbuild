@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <a href="../README.md">Back to profile</a>
+  <a href="https://github.com/svenbuild">Back to profile</a>
 </p>
