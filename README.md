@@ -1,8 +1,5 @@
 <h1 align="center">svenbuild</h1>
 
-<p align="center">
-  desktop tools - rust - tauri
-</p>
 
 <p align="center">
   <a href="https://github.com/svenbuild?tab=repositories">
