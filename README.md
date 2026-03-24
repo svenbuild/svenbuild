@@ -1,7 +1,7 @@
 <h1 align="center">svenbuild</h1>
 
 <p align="center">
-  desktop tools - rust - tauri - terminal-first software
+  desktop tools - rust - tauri
 </p>
 
 <p align="center">
