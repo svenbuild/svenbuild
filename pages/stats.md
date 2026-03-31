@@ -1,18 +1,16 @@
-<p align="center">
-  <img src="../assets/notes-banner.svg" alt="Current focus banner" />
+# Stats
+
+<p>
+  <img alt="Followers" src="https://img.shields.io/github/followers/svenbuild?style=flat-square&logo=github&label=followers&labelColor=111111&color=1F6FEB" />
+  <img alt="Public repos" src="https://img.shields.io/badge/public%20repos-3-111111?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Diffly stars" src="https://img.shields.io/github/stars/svenbuild/diffly?style=flat-square&logo=github&label=diffly%20stars&labelColor=111111&color=238636" />
+  <img alt="Gutter stars" src="https://img.shields.io/github/stars/svenbuild/gutter?style=flat-square&logo=github&label=gutter%20stars&labelColor=111111&color=A371F7" />
 </p>
 
-## Now
+<p>
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=svenbuild&theme=github-dark-blue&hide_border=true" />
+</p>
 
-- building desktop tools instead of browser-first products
-- focusing on local file workflows and readable interfaces
-- keeping release flows practical and boring
-
-## Repositories
-
-- [Diffly](https://github.com/svenbuild/diffly)
-- [Gutter](https://github.com/svenbuild/gutter)
-
-GitHub already exposes the real contribution graph on the profile itself, so this page stays focused on what I am building rather than external stat widgets.
-
-[Back to profile](https://github.com/svenbuild)
+- [Repositories](https://github.com/svenbuild?tab=repositories)
+- [Profile activity](https://github.com/svenbuild)
+- [Back to profile](https://github.com/svenbuild)
