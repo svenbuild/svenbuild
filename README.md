@@ -21,27 +21,3 @@
     <img alt="Stats" src="https://img.shields.io/badge/stats-111111?style=flat-square&logo=githubsponsors&logoColor=white" />
   </a>
 </p>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Diffly</strong>
-      <br />
-      desktop diff tool for files and folders
-      <br />
-      <br />
-      Svelte, TypeScript, and Tauri.
-      <br />
-      Focused on readable diffs, folder workflows, and practical desktop UX.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/svenbuild/gutter">
-        <img src="https://raw.githubusercontent.com/svenbuild/gutter/main/assets/gutter-ui.png" alt="Gutter screenshot" />
-      </a>
-      <br />
-      <strong>Gutter</strong>
-      <br />
-      terminal editor focused on navigation and editing workflow
-    </td>
-  </tr>
-</table>
