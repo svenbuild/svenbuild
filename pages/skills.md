@@ -1,27 +1,36 @@
-<h1 align="center">Tools &amp; Tech</h1>
+# Stack
 
-<hr />
+## Core
 
-<p align="center">
-  <img alt="Core stack" src="https://skillicons.dev/icons?i=rust,tauri,ts,js,svelte,html,css,vite,nodejs,npm,git,github,vscode&perline=7" />
-</p>
+- Rust
+- TypeScript
+- JavaScript
+- Tauri
+- Svelte
+- Vite
 
-<h2 align="center">Platforms</h2>
+## Tooling
 
-<hr />
+- Cargo
+- npm
+- Git
+- GitHub Actions
+- PowerShell
+- VS Code
 
-<p align="center">
-  <img alt="Platforms" src="https://skillicons.dev/icons?i=windows,linux,bash,powershell,docker,githubactions&perline=6" />
-</p>
+## Platforms
 
-<h2 align="center">Current Interest</h2>
+- Windows first
+- Linux where it makes sense
 
-<hr />
+## Interests
 
-<p align="center">
-  <img alt="Current interest" src="https://skillicons.dev/icons?i=rust,svelte,tauri,sqlite,vitest&perline=5" />
-</p>
+- desktop UX
+- local-first workflows
+- editor and diff tooling
+- reliable release pipelines
 
-<p align="center">
-  <a href="https://github.com/svenbuild">Back to profile</a>
-</p>
+## Links
+
+- [Back to profile](https://github.com/svenbuild)
+- [Notes](https://github.com/svenbuild/svenbuild/blob/main/pages/stats.md)
