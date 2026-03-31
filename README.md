@@ -22,23 +22,17 @@
   </a>
 </p>
 
-<p align="center">
-  <img alt="Followers" src="https://img.shields.io/github/followers/svenbuild?style=flat-square&logo=github&label=followers&labelColor=111111&color=1F6FEB" />
-  <img alt="Diffly stars" src="https://img.shields.io/github/stars/svenbuild/diffly?style=flat-square&logo=github&label=diffly%20stars&labelColor=111111&color=238636" />
-  <img alt="Gutter stars" src="https://img.shields.io/github/stars/svenbuild/gutter?style=flat-square&logo=github&label=gutter%20stars&labelColor=111111&color=A371F7" />
-  <img alt="Public repos" src="https://img.shields.io/badge/public%20repos-3-111111?style=flat-square&logo=github&logoColor=white" />
-</p>
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/svenbuild/diffly">
-        <img src="https://raw.githubusercontent.com/svenbuild/diffly/main/src-tauri/app-icon.svg" alt="Diffly icon" width="92" />
-      </a>
-      <br />
       <strong>Diffly</strong>
       <br />
       desktop diff tool for files and folders
+      <br />
+      <br />
+      Svelte, TypeScript, and Tauri.
+      <br />
+      Focused on readable diffs, folder workflows, and practical desktop UX.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/svenbuild/gutter">
