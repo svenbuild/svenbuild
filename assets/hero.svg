@@ -1,0 +1,28 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="360" rx="20" fill="#0D1117"/>
+  <rect x="16" y="16" width="1248" height="328" rx="16" stroke="#30363D"/>
+  <path d="M80 88H420" stroke="#21262D" stroke-width="2"/>
+  <path d="M80 120H420" stroke="#21262D" stroke-width="2"/>
+  <path d="M80 152H420" stroke="#21262D" stroke-width="2"/>
+  <path d="M80 184H420" stroke="#21262D" stroke-width="2"/>
+  <path d="M80 216H420" stroke="#21262D" stroke-width="2"/>
+  <path d="M860 88H1200" stroke="#21262D" stroke-width="2"/>
+  <path d="M860 120H1200" stroke="#21262D" stroke-width="2"/>
+  <path d="M860 152H1200" stroke="#21262D" stroke-width="2"/>
+  <path d="M860 184H1200" stroke="#21262D" stroke-width="2"/>
+  <path d="M860 216H1200" stroke="#21262D" stroke-width="2"/>
+  <rect x="104" y="114" width="132" height="12" rx="6" fill="#58A6FF" fill-opacity="0.28"/>
+  <rect x="104" y="178" width="200" height="12" rx="6" fill="#F78166" fill-opacity="0.28"/>
+  <rect x="944" y="114" width="168" height="12" rx="6" fill="#3FB950" fill-opacity="0.26"/>
+  <rect x="944" y="178" width="124" height="12" rx="6" fill="#D2A8FF" fill-opacity="0.28"/>
+  <path d="M477 102L548 102" stroke="#58A6FF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M477 184L548 184" stroke="#F78166" stroke-width="4" stroke-linecap="round"/>
+  <path d="M730 102L801 102" stroke="#3FB950" stroke-width="4" stroke-linecap="round"/>
+  <path d="M730 184L801 184" stroke="#D2A8FF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M570 102L626 102L626 143L680 143" stroke="#8B949E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M708 143L736 143" stroke="#8B949E" stroke-width="3" stroke-linecap="round"/>
+  <path d="M570 184L626 184L626 143L680 143" stroke="#8B949E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="680" cy="143" r="14" fill="#161B22" stroke="#58A6FF" stroke-width="3"/>
+  <text x="640" y="274" fill="#F0F6FC" font-family="system-ui, sans-serif" font-size="54" font-weight="700">SVENBUILD</text>
+  <text x="427" y="308" fill="#8B949E" font-family="system-ui, sans-serif" font-size="24">local-first desktop tools with clean interfaces and practical workflows</text>
+</svg>

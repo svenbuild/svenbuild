@@ -1,0 +1,21 @@
+<svg width="620" height="300" viewBox="0 0 620 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="620" height="300" rx="18" fill="#0D1117"/>
+  <rect x="12" y="12" width="596" height="276" rx="14" stroke="#30363D"/>
+  <text x="34" y="48" fill="#F0F6FC" font-family="system-ui, sans-serif" font-size="28" font-weight="700">Gutter</text>
+  <text x="34" y="74" fill="#8B949E" font-family="system-ui, sans-serif" font-size="15">terminal editor focused on workflow and navigation</text>
+  <rect x="34" y="100" width="112" height="150" rx="10" fill="#161B22" stroke="#30363D"/>
+  <rect x="158" y="100" width="428" height="150" rx="10" fill="#161B22" stroke="#30363D"/>
+  <path d="M54 122H122" stroke="#30363D" stroke-width="2"/>
+  <path d="M54 146H110" stroke="#30363D" stroke-width="2"/>
+  <path d="M54 170H126" stroke="#30363D" stroke-width="2"/>
+  <path d="M54 194H98" stroke="#30363D" stroke-width="2"/>
+  <rect x="46" y="139" width="88" height="18" rx="9" fill="#3FB950" fill-opacity="0.24"/>
+  <path d="M182 124H316" stroke="#30363D" stroke-width="2"/>
+  <path d="M182 148H546" stroke="#30363D" stroke-width="2"/>
+  <path d="M182 172H524" stroke="#30363D" stroke-width="2"/>
+  <path d="M182 196H500" stroke="#30363D" stroke-width="2"/>
+  <path d="M182 220H410" stroke="#30363D" stroke-width="2"/>
+  <rect x="174" y="143" width="224" height="18" rx="9" fill="#D2A8FF" fill-opacity="0.22"/>
+  <rect x="174" y="215" width="10" height="18" rx="4" fill="#F0F6FC"/>
+  <text x="34" y="270" fill="#8B949E" font-family="system-ui, sans-serif" font-size="14">Rust | ratatui | crossterm</text>
+</svg>

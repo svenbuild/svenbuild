@@ -1,36 +1,26 @@
-# Stack
+<p align="center">
+  <img src="../assets/stack-strip.svg" alt="Stack banner" />
+</p>
 
 ## Core
 
-- Rust
-- TypeScript
-- JavaScript
-- Tauri
-- Svelte
-- Vite
+- Rust for application logic and native performance
+- Tauri for desktop shell and update flow
+- Svelte and TypeScript for fast UI iteration
+- Vite for frontend build and dev workflow
 
 ## Tooling
 
-- Cargo
-- npm
-- Git
-- GitHub Actions
-- PowerShell
-- VS Code
+- Git and GitHub for delivery and review
+- GitHub Actions for validation and release automation
+- PowerShell for local automation on Windows
+- VS Code for day-to-day editing
 
-## Platforms
+## Direction
 
-- Windows first
-- Linux where it makes sense
-
-## Interests
-
-- desktop UX
+- Windows-first desktop tools
 - local-first workflows
-- editor and diff tooling
-- reliable release pipelines
+- fast and predictable interfaces
+- small software with clear utility
 
-## Links
-
-- [Back to profile](https://github.com/svenbuild)
-- [Notes](https://github.com/svenbuild/svenbuild/blob/main/pages/stats.md)
+[Back to profile](https://github.com/svenbuild)

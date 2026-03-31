@@ -1,0 +1,18 @@
+<svg width="1280" height="150" viewBox="0 0 1280 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="150" rx="18" fill="#0D1117"/>
+  <rect x="12" y="12" width="1256" height="126" rx="14" stroke="#30363D"/>
+  <text x="42" y="62" fill="#F0F6FC" font-family="system-ui, sans-serif" font-size="26" font-weight="700">Stack</text>
+  <text x="42" y="92" fill="#8B949E" font-family="system-ui, sans-serif" font-size="15">Rust, Tauri, Svelte, TypeScript, Vite, GitHub Actions, Windows</text>
+  <rect x="472" y="43" width="92" height="36" rx="18" fill="#161B22" stroke="#30363D"/>
+  <text x="501" y="66" fill="#F0F6FC" font-family="system-ui, sans-serif" font-size="15">Rust</text>
+  <rect x="578" y="43" width="94" height="36" rx="18" fill="#161B22" stroke="#30363D"/>
+  <text x="607" y="66" fill="#F0F6FC" font-family="system-ui, sans-serif" font-size="15">Tauri</text>
+  <rect x="686" y="43" width="104" height="36" rx="18" fill="#161B22" stroke="#30363D"/>
+  <text x="713" y="66" fill="#F0F6FC" font-family="system-ui, sans-serif" font-size="15">Svelte</text>
+  <rect x="804" y="43" width="134" height="36" rx="18" fill="#161B22" stroke="#30363D"/>
+  <text x="831" y="66" fill="#F0F6FC" font-family="system-ui, sans-serif" font-size="15">TypeScript</text>
+  <rect x="952" y="43" width="86" height="36" rx="18" fill="#161B22" stroke="#30363D"/>
+  <text x="982" y="66" fill="#F0F6FC" font-family="system-ui, sans-serif" font-size="15">Vite</text>
+  <rect x="1052" y="43" width="162" height="36" rx="18" fill="#161B22" stroke="#30363D"/>
+  <text x="1081" y="66" fill="#F0F6FC" font-family="system-ui, sans-serif" font-size="15">GitHub Actions</text>
+</svg>

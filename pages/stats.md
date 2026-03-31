@@ -1,24 +1,18 @@
-# Notes
+<p align="center">
+  <img src="../assets/notes-banner.svg" alt="Current focus banner" />
+</p>
 
-I removed the external stat cards from this page because they were the part that kept breaking.
+## Now
 
-GitHub already shows the real activity graph and contribution data on the profile, so this page stays text-first and stable.
+- building desktop tools instead of browser-first products
+- focusing on local file workflows and readable interfaces
+- keeping release flows practical and boring
 
-## Current Focus
+## Repositories
 
-- desktop tools instead of browser-first products
-- local file workflows
-- readable interfaces and predictable behavior
-- shipping small, practical software
+- [Diffly](https://github.com/svenbuild/diffly)
+- [Gutter](https://github.com/svenbuild/gutter)
 
-## Active Repositories
+GitHub already exposes the real contribution graph on the profile itself, so this page stays focused on what I am building rather than external stat widgets.
 
-- [Diffly](https://github.com/svenbuild/diffly): desktop diff tool for files and folders
-- [Gutter](https://github.com/svenbuild/gutter): terminal text editor for Windows
-
-## Profile Links
-
-- [Profile overview](https://github.com/svenbuild)
-- [Repositories](https://github.com/svenbuild?tab=repositories)
-- [Contribution graph](https://github.com/svenbuild)
-- [Stack](https://github.com/svenbuild/svenbuild/blob/main/pages/skills.md)
+[Back to profile](https://github.com/svenbuild)

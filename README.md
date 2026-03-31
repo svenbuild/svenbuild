@@ -1,7 +1,5 @@
-<h1 align="center">svenbuild</h1>
-
 <p align="center">
-  building local-first desktop tools with Rust, Tauri, Svelte, and TypeScript
+  <img src="./assets/hero.svg" alt="svenbuild profile banner" />
 </p>
 
 <p align="center">
@@ -16,24 +14,21 @@
   <a href="https://github.com/svenbuild/svenbuild/blob/main/pages/stats.md">notes</a>
 </p>
 
-## Projects
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/svenbuild/diffly">
+        <img src="./assets/diffly-card.svg" alt="Diffly project card" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/svenbuild/gutter">
+        <img src="./assets/gutter-card.svg" alt="Gutter project card" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### [Diffly](https://github.com/svenbuild/diffly)
-
-Desktop diff tool for file and folder comparisons.
-
-Built with Svelte, TypeScript, and Tauri.
-
-Focus: fast navigation, readable diffs, binary inspection, and practical desktop workflow.
-
-### [Gutter](https://github.com/svenbuild/gutter)
-
-Terminal text editor for Windows built with Rust, `ratatui`, and `crossterm`.
-
-Focus: workspace navigation, multi-file editing, keyboard-heavy workflows, and editor usability.
-
-## Working Style
-
-- local-first apps over browser-heavy stacks
-- practical tooling over decorative complexity
-- clean interfaces, predictable behavior, and fast iteration
+<p align="center">
+  <img src="./assets/stack-strip.svg" alt="Core stack strip" />
+</p>
