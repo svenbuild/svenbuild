@@ -54,11 +54,6 @@ I build fast local-first desktop tools with Svelte, TypeScript, and Electron. My
 ## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=svenbuild&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&border_radius=10" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svenbuild&layout=compact&theme=github_dark&hide_border=true&border_radius=10" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=svenbuild&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub streak" />
 </p>
 
