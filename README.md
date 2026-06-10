@@ -66,14 +66,6 @@ I build fast local-first desktop tools with Svelte, TypeScript, and Electron. My
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=svenbuild&theme=github-dark&hide_border=true&radius=10&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
 </p>
 
-<details>
-  <summary>More profile cards</summary>
-
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=svenbuild&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
-  </p>
-</details>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:14b8a6,50:2563eb,100:0f172a" alt="Footer wave" />
 </p>
