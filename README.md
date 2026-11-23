@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Sven. Software for the machines you own. A private cloud for the home server, and desktop tools that stay local.">
+<img src="assets/window.svg" width="100%" alt="Sven. Software for the machines you own. A private cloud for the home server, and desktop tools that stay local.">
 
 <a href="https://github.com/svenbuild/fylvo"><img src="assets/project-fylvo.svg" width="100%" alt="Fylvo, v1.0.0. A lean, private cloud for your own server. Files, sharing, office and sync apps, in one container. Go, TypeScript, Kotlin, Rust."></a>
 
