@@ -1,45 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Sven. I build software that runs on your own machines.">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b0d17"/><stop offset="1" stop-color="#0a0a10"/>
-    </linearGradient>
-    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#8f9cff"/><stop offset=".5" stop-color="#c3a3ff"/><stop offset="1" stop-color="#6fe0ea"/>
-      <animate attributeName="x1" values="0;-1;0" dur="9s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="1;2;1" dur="9s" repeatCount="indefinite"/>
-    </linearGradient>
-    <radialGradient id="g1"><stop offset="0" stop-color="#7484F4" stop-opacity=".55"/><stop offset="1" stop-color="#7484F4" stop-opacity="0"/></radialGradient>
-    <radialGradient id="g2"><stop offset="0" stop-color="#b08cff" stop-opacity=".45"/><stop offset="1" stop-color="#b08cff" stop-opacity="0"/></radialGradient>
-    <radialGradient id="g3"><stop offset="0" stop-color="#3fd0dc" stop-opacity=".32"/><stop offset="1" stop-color="#3fd0dc" stop-opacity="0"/></radialGradient>
-    <clipPath id="r"><rect width="1200" height="340" rx="22"/></clipPath>
-    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#ffffff" opacity=".07"/></pattern>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 318" width="1200" height="318" role="img" aria-label="Sven. Software for the machines you own.">
   <style>
-    .name { font: 800 104px 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; letter-spacing: -5px; fill: url(#ink); }
-    .line { font: 500 25px 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; fill: #c9cee6; opacity: 0; animation: show 12s infinite; }
-    .l2 { animation-delay: 4s; } .l3 { animation-delay: 8s; }
-    @keyframes show { 0% { opacity: 0; transform: translateY(10px); } 5%, 28% { opacity: 1; transform: translateY(0); } 33%, 100% { opacity: 0; transform: translateY(-8px); } }
-    .cur { fill: #8f9cff; animation: blink 1s steps(2) infinite; }
+    .path { font: 15px 'Cascadia Mono', ui-monospace, 'SF Mono', Consolas, 'Liberation Mono', monospace; fill: #86868d; }
+    .path tspan { fill: #e9e9ec; }
+    .h { font: 700 78px 'Segoe UI Variable Display', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; fill: #e9e9ec; letter-spacing: -3.2px; }
+    .s { font: 400 21px 'Segoe UI Variable Display', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; fill: #b9b9c0; }
+    .cur { fill: #7484F4; animation: blink 1.1s steps(2, jump-none) infinite; }
     @keyframes blink { 50% { opacity: 0; } }
-    .tag { font: 500 15px ui-monospace, 'Cascadia Code', 'SF Mono', Consolas, monospace; fill: #8b91ad; }
-    .rise { animation: rise 1.1s cubic-bezier(.2,.8,.2,1) both; }
-    @keyframes rise { from { opacity: 0; transform: translateY(26px); } to { opacity: 1; transform: translateY(0); } }
-    @media (prefers-reduced-motion: reduce) { .line { animation: none; } .l1 { opacity: 1; } .cur, .rise { animation: none; } }
+    @media (prefers-reduced-motion: reduce) { .cur { animation: none; } }
   </style>
-  <g clip-path="url(#r)">
-    <rect width="1200" height="340" fill="url(#bg)"/>
-    <circle r="330" fill="url(#g1)"><animate attributeName="cx" values="190;330;190" dur="16s" repeatCount="indefinite"/><animate attributeName="cy" values="40;120;40" dur="13s" repeatCount="indefinite"/></circle>
-    <circle r="300" fill="url(#g2)"><animate attributeName="cx" values="960;820;960" dur="18s" repeatCount="indefinite"/><animate attributeName="cy" values="10;90;10" dur="15s" repeatCount="indefinite"/></circle>
-    <circle r="280" fill="url(#g3)"><animate attributeName="cx" values="640;740;640" dur="20s" repeatCount="indefinite"/><animate attributeName="cy" values="380;320;380" dur="14s" repeatCount="indefinite"/></circle>
-    <rect width="1200" height="340" fill="url(#dots)"/>
-    <g class="rise">
-      <text x="72" y="168" class="name">Sven</text>
-      <rect x="318" y="88" width="9" height="84" rx="3" class="cur"/>
-      <text x="76" y="224" class="line l1">I build software that runs on your own machines.</text>
-      <text x="76" y="224" class="line l2">A private cloud for the home server.</text>
-      <text x="76" y="224" class="line l3">Desktop tools that stay local and feel fast.</text>
-      <text x="76" y="282" class="tag">go  /  typescript  /  rust  /  kotlin</text>
-    </g>
-  </g>
-  <rect x=".5" y=".5" width="1199" height="339" rx="22" fill="none" stroke="#ffffff" stroke-opacity=".1"/>
+  <rect x=".5" y=".5" width="1199" height="317" rx="10" fill="#0a0a0a" stroke="#232326"/>
+  <path d="M.5 48.5h1199" stroke="#232326"/>
+  <path d="M10.5 .5h1179a10 10 0 0 1 10 10v38H.5V10.5a10 10 0 0 1 10-10z" fill="#000000"/>
+  <path d="M.5 48.5h1199" stroke="#232326"/>
+  <text x="28" y="30" class="path">~/<tspan>sven</tspan></text>
+  <rect x="88" y="17" width="8" height="17" class="cur"/>
+  <text x="1172" y="30" text-anchor="end" class="path">Switzerland</text>
+  <text x="26" y="150" class="h">Software for the</text>
+  <text x="26" y="232" class="h">machines you own.</text>
+  <text x="30" y="282" class="s">A private cloud for the home server, and desktop tools that stay local.</text>
 </svg>

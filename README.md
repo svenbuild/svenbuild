@@ -1,18 +1,7 @@
-<p align="center">
-  <img src="assets/header.svg" width="100%" alt="Sven. I build software that runs on your own machines: a private cloud for the home server, and desktop tools that stay local.">
-</p>
+<img src="assets/header.svg" width="100%" alt="Sven. Software for the machines you own. A private cloud for the home server, and desktop tools that stay local.">
 
-<p align="center">
-  <a href="https://github.com/svenbuild/fylvo"><img src="assets/card-fylvo.svg" width="49%" alt="Fylvo: a lean, private cloud for your own server. Files, sharing, office and sync apps in one container."></a>
-  <a href="https://github.com/svenbuild/diffly"><img src="assets/card-diffly.svg" width="49%" alt="Diffly: a local desktop diff tool for files and folders. Windows, macOS and Linux."></a>
-</p>
+<a href="https://github.com/svenbuild/fylvo"><img src="assets/project-fylvo.svg" width="100%" alt="Fylvo, v1.0.0. A lean, private cloud for your own server. Files, sharing, office and sync apps, in one container. Go, TypeScript, Kotlin, Rust."></a>
 
-<p align="center">
-  <a href="https://fylvo.svenlab.dev">fylvo.svenlab.dev</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://diffly.net">diffly.net</a>
-</p>
+<a href="https://github.com/svenbuild/diffly"><img src="assets/project-diffly.svg" width="100%" alt="Diffly, v0.2.4. A local desktop diff tool for files and folders. Windows, macOS and Linux. TypeScript, Svelte."></a>
 
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Software that works without an account at another service.">
-</p>
+[fylvo.svenlab.dev](https://fylvo.svenlab.dev) and [diffly.net](https://diffly.net)
