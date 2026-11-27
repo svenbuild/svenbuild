@@ -4,4 +4,6 @@
 
 <a href="https://github.com/svenbuild/diffly"><img src="assets/project-diffly.svg" width="100%" alt="Diffly, v0.2.4. A local desktop diff tool for files and folders. Windows, macOS and Linux. TypeScript, Svelte."></a>
 
+<a href="https://github.com/svenbuild/altsnap-lite"><img src="assets/project-altsnap-lite.svg" width="100%" alt="AltSnap Lite, v1.2.0. Move, resize, snap and pin any window with Alt + mouse. A tiny tray app for Windows 10 and 11. C#."></a>
+
 [fylvo.svenlab.dev](https://fylvo.svenlab.dev) and [diffly.net](https://diffly.net)
